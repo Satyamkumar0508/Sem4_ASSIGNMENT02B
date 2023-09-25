@@ -7,6 +7,8 @@ public class Q05_linkedhashset {
         
         // Insert some elements into the set
         set.add(3.14);
+        set.add(890);
+        set.add(890);
         set.add(2.71);
         set.add(1.618);
         set.add(0.707);
